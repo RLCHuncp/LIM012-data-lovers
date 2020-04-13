@@ -2,7 +2,7 @@
 
 ### 🕵🏼‍♀️ **DEFINICIÓN DEL PRODUCTO** 👩🏻‍🏫
 Es una página web muy interactiva para el público en general que desea conocer más acerca del juego League Of Legends
-que al ingresar a la página web, lo primero que va hacer el usuari@ es ver una barra de navegación donde tiene: **GAME** (Donde si el usuario desea saber más acerca de este juego puede pulsar ahí y se abrirá lap página oficial de LOL [GAME](https://euw.leagueoflegends.com/es-es/how-to-play/) ), **LIST OF TERMS** (En esta parte el usuari@ puede ver más acerca de los términos que se manejan en el juego [LIST OF TERMS](https://league-of-legends-lol.fandom.com/es/wiki/Diccionario_de_Terminos_del_LoL) ), **NEWS** (En esta parte el usuari@ puede ver noticias de último minuto acerca de LOL [NEWS](https://esports.as.com/league-of-legends/) ) y **ABOUT US** (Aquí se puede ver más acerca de las desarrolladoras de esta página web 👩🏼‍💻[®️RUTH CAMPOS](https://github.com/RLCHuncp) && 👩🏼‍💻[®️ROSMERY TERRY](https://github.com/rosterry58).
+que al ingresar a la página web, lo primero que va hacer el usuari@ es ver una barra de navegación donde tiene: **GAME** (Donde si el usuario desea saber más acerca de este juego puede pulsar ahí y se abrirá la página oficial de LOL [GAME](https://euw.leagueoflegends.com/es-es/how-to-play/) ), **LIST OF TERMS** (En esta parte el usuari@ puede ver más acerca de los términos que se manejan en el juego [LIST OF TERMS](https://league-of-legends-lol.fandom.com/es/wiki/Diccionario_de_Terminos_del_LoL) ), **NEWS** (En esta parte el usuari@ puede ver noticias de último minuto acerca de LOL [NEWS](https://esports.as.com/league-of-legends/) ) y **ABOUT US** (Aquí se puede ver más acerca de las desarrolladoras de esta página web 👩🏼‍💻[®️RUTH CAMPOS](https://github.com/RLCHuncp) && 👩🏼‍💻[®️ROSMERY TERRY](https://github.com/rosterry58).
 
 ✍🏽`USUARIOS:`
 Los principales usuarios de nuestra página web son para personas que son aficionad@s a los videojuegos especialmente del género multijugador de arena de batalla  en Línea (MOBA) y deporte electrónico.
@@ -204,4 +204,4 @@ En futuras versiones de nuestra web planeamos agregar nuevo contenido a la pági
 ⌛️Lo anterior permitirá complementar la información que contiene actualmente la página y dirigirla a lo que los usuarios creen útil y necesario de acuerdo a la encuesta realizada al inicio de nuestro proyecto, en la fase de definición del producto.<br>
 ⌛️Hacer PopUp a cada card.<br>
 
-❗️❗️LINK DE NUESTRO PROYECTO - REVÍSALO 💯👉👉[AQUÍ]()❗️❗️
+❗️❗️LINK DE NUESTRO PROYECTO - REVÍSALO 💯👉👉[AQUÍ](https://rlchuncp.github.io/LIM012-data-lovers/src/index.html)❗️❗️
