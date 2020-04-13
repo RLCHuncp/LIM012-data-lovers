@@ -81,6 +81,7 @@ body {
         color: #fff;
         background-color: rgba(0, 22, 40, .6);
         display: flex;
+        z-index: 1;
         flex-direction: column;
         justify-content: center;
         align-items: center;
