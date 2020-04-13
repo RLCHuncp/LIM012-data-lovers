@@ -139,6 +139,7 @@ const backTwo = document.getElementById('backTwo');
 backTwo.addEventListener('click', () => {
   calculationScreen.classList.toggle('hide');
   secondScreen.classList.toggle('hide');
+  fourthScreen.classList.toggle('hide');
 });
 
 // CONTENEDOR DE ROLES
@@ -197,6 +198,7 @@ const backThree = document.getElementById('backThree');
 backThree.addEventListener('click', () => {
   thirdScreen.classList.toggle('hide');
   secondScreen.classList.toggle('hide');
+  fourthScreen.classList.toggle('hide');
 });
 
 // ORDENAR POR ROL ASESINO
