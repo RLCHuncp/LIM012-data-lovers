@@ -48,7 +48,7 @@
           <h1>universe of <span class="big">champions</span></h1>
         </div>
         <div class="description-screen">
-          <p class="description">With over 134 champions, 
+          <p class="description">With over 134 champions,
             you will find the one that perfectly matches your playing style. Master one or master them all.</p>
         </div>
         <div id="backOne">
@@ -93,39 +93,39 @@
         </div>
       </div>
   </section>
-  <!-- Load Facebook SDK for JavaScript -->
-      <div id="fb-root"></div>
-      <script>
-        window.fbAsyncInit = function() {
-          FB.init({
-            xfbml            : true,
-            version          : 'v7.0'
-          });
-        };
-
-        (function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
-        fjs.parentNode.insertBefore(js, fjs);
-      }(document, 'script', 'facebook-jssdk'));</script>
-
-      <!-- Your Chat Plugin code -->
-      <div class="fb-customerchat"
-        attribution=setup_tool
-        page_id="102742328161120"
-  theme_color="#13cf13"
-  logged_in_greeting="Hola! Bienvenido a Ecochat cómo podemos ayudarte?"
-  logged_out_greeting="Hola! Bienvenido a Ecochat cómo podemos ayudarte?">
-      </div>
   <footer class="footer">
+    <!-- Load Facebook SDK for JavaScript -->
+    <div id="fb-root"></div>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          xfbml            : true,
+          version          : 'v7.0'
+        });
+      };
+
+      (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+    <!-- Your Chat Plugin code -->
+    <div class="fb-customerchat"
+      attribution=setup_tool
+      page_id="102742328161120"
+theme_color="#13cf13"
+logged_in_greeting="Hola! Bienvenido a Ecochat cómo podemos ayudarte?"
+logged_out_greeting="Hola! Bienvenido a Ecochat cómo podemos ayudarte?">
+    </div>
     <nav class="pie">
       <a href="#">©Copyright 2020 by Ruth Campos & Rosmery Terry</a>
     </nav>
   </footer>
 </div>
-<!-- TERCERA PANTALLA -->          
+<!-- TERCERA PANTALLA -->
 <div id="thirdScreen" class="hide">
   <header class="title-calculation">
     <h3 class="title-top">champion roles</h3>
@@ -140,26 +140,26 @@
       <p class="title-roles">Assassin</p>
     </div>
     <div class="button-roles">
-      <input type=image id="rolFighter" class="input-roles" value="Fighter" src="imagenes/role_icon_fighter.png"> 
+      <input type=image id="rolFighter" class="input-roles" value="Fighter" src="imagenes/role_icon_fighter.png">
       <p class="title-roles">Fighter</p>
     </div>
     <div class="button-roles">
-      <input type=image id="rolMarksman" class="input-roles" value="Marksman" src="imagenes/role_icon_marksman.png"> 
+      <input type=image id="rolMarksman" class="input-roles" value="Marksman" src="imagenes/role_icon_marksman.png">
       <p class="title-roles">Marksman</p>
     </div>
     <div class="button-roles">
-      <input type=image id="rolMage" class="input-roles" value="Mage" src="imagenes/role_icon_mage.png"> 
+      <input type=image id="rolMage" class="input-roles" value="Mage" src="imagenes/role_icon_mage.png">
       <p class="title-roles">Mage</p>
     </div>
     <div class="button-roles">
-      <input type=image id="rolSupport" class="input-roles" value="Support" src="imagenes/role_icon_support.png"> 
+      <input type=image id="rolSupport" class="input-roles" value="Support" src="imagenes/role_icon_support.png">
       <p class="title-roles">Support</p>
     </div>
     <div class="button-roles">
-      <input type=image id="rolTank" class="input-roles" value="Tank" src="imagenes/role_icon_tank.png"> 
+      <input type=image id="rolTank" class="input-roles" value="Tank" src="imagenes/role_icon_tank.png">
       <p class="title-roles">Tank</p>
     </div>
-    </section> 
+    </section>
     <div class="videoIntro" id="video">
       <video src="imagenes/videoChampions.mp4" autoplay loop muted width="50%" height="50%"></video>
     </div>
